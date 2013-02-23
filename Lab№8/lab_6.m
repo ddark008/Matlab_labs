@@ -17,4 +17,5 @@ CMAS{3}=char('first string','second string');
 CMAS{4}.Data=[3.981 9.765 4.442 0.003];
 CMAS{5}=9;
 CMAS{6}=45995352;
+CMAS{6}={0 1 5 6};
 seach_number(CMAS)

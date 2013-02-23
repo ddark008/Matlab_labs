@@ -1,6 +1,4 @@
 function DATA = read_data( f_name )
-%UNTITLED8 Summary of this function goes here
-%   Detailed explanation goes here
 f=fopen(f_name, 'rt');
 i=0;
 while feof(f)==0
